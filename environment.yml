@@ -1,0 +1,6 @@
+name: P01-P02 practicals
+channels:
+  - conda-forge
+dependencies:
+  - python =3
+  - obspy >=1.2.0
